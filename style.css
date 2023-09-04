@@ -1,0 +1,16 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    height: 500vh;
+    background-image: url(img/bg.png);
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-size: 200vh;
+}
+
+.section {
+    height: 100vh;
+}
